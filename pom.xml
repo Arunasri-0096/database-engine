@@ -145,7 +145,7 @@
 
 		</plugins>
 	</build>
-</build>
+
 
 <!-- ✅ MOVE HERE -->
 <distributionManagement>
