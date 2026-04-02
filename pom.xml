@@ -151,13 +151,11 @@
 <distributionManagement>
     <repository>
         <id>nexus-releases</id>
-        <name>Nexus Release Repository</name>
         <url>http://98.91.245.183:8081/repository/maven-releases/</url>
     </repository>
 
     <snapshotRepository>
         <id>nexus-snapshots</id>
-        <name>Nexus Snapshot Repository</name>
         <url>http://98.91.245.183:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
